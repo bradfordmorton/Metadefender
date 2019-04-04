@@ -1,9 +1,9 @@
 ###### FILESCAN SCRIPT FOR METADEFENDER CORE API ######
  
-###### Created by Bradford Morton for Department of the Treasury (bradford.morton@treasury.gov.au) ######
-###### Available at my github https://github.com/bradfordmorton ######
+###### Created by Bradford Morton for Department of the Treasury (bradford.morton@treasury.gov.au & bradford.morton@securitygardener.info) ######
+###### Available on Github at https://github.com/bradfordmorton ######
 
-###### This script is used to submit files to METADEFENDER CORE.  It also authenicates the user to the applicance ######
+###### This script is used to submit files to METADEFENDER CORE API.  It also authenicates the user to the applicance ######
 ###### and provides information on the product_id and version running ######
 
 #Prompts for username and password
