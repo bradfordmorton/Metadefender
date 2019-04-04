@@ -11,7 +11,7 @@ $Credentials = Get-Credential -Credential $null
 $RESTAPIUser = $Credentials.UserName
 $Credentials.Password | ConvertFrom-SecureString
 $RESTAPIPassword = $Credentials.GetNetworkCredential().password
-$BaseURL = "http://" + "pg1sandbox01:8008"
+$BaseURL = "http://" + "x:8008"
 
 $LoginSessionURL = $BaseURL + "/login"
 
